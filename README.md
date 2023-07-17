@@ -8,13 +8,12 @@ I am a team player, and I enjoy collaborating with cross-functional teams to del
 
 ## Projects
 
-| Name                         | Description                              | Tech/tools        |
-| ---------------------------- | ---------------------------------------- | ----------------- |
-| **Study Buddy App**          | An study group app that allows users to  | React, Jest, etc.
-|                              | create and/or join pre-existing study    |
-|                              | groups of their choice                   |
-                               |                                          |                   |
-| **Something else worked on** | A webapp to do y.                        | Ruby              |
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Study Buddy App**            | A study group app that allows users to create an account that can then join and/or create study groups, enabling users to study along with other users with similar interests to that subject. The main features of the app are to create an account, create a study group with specifications, browse and filter through study groups, join a group and chat with others using a chatbox, integrated OpenAI API served as "Ask Sheldon" button that answers any question with AI, delete group and use links to external study-friendly websites. | MongoBD, Express, React, Node  |
+| **Acebook App** | A social media clone app that allows users to create an account and upload posts containing messages and images. The main features of the app are to create posts, like other posts from other users, update profile details and delete posts.  | MongoDB, Express, React, Node |
+| **MakersBNB** | A property renting marketplace that allows users to create an account to either rent out their a property or to request to rent a property to stay in. The main features of the app are to create an account and create a listing, browse homepage and filter through listings, request a space from a host, delete a listing.  | MySQL, Sinatra, RSpec  |
+| **Bank Tech Test** | A bank account simulation app that allows you to make any of the following operations like, depositing money, withdrawing money and viewing the account statement. The app is used through accessing Node.js REPL, with commands that are stated in the projects README  | JavaScript, Node, JSON  |
 
 ## Work Experience
 
