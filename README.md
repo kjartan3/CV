@@ -8,10 +8,13 @@ I am a team player, and I enjoy collaborating with cross-functional teams to del
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                              | Tech/tools        |
+| ---------------------------- | ---------------------------------------- | ----------------- |
+| **Study Buddy App**          | An study group app that allows users to  | React, Jest, etc.
+|                              | create and/or join pre-existing study    |
+|                              | groups of their choice                   |
+                               |                                          |                   |
+| **Something else worked on** | A webapp to do y.                        | Ruby              |
 
 ## Work Experience
 
@@ -45,7 +48,7 @@ _Graphic Designer_
 
 ## Skills
 
-As a graphic designer transitioning into software development, my expertise in design principles, visual aesthetics, and user experience can help me create software that is not only functional but also visually appealing and intuitive to use. Additionally, my ability to work with Adobe Creative Suite and other design tools can aid me in developing and designing software interfaces. My experience with creative problem-solving and critical thinking can also assist in tackling software development challenges. With a strong foundation in design and a passion for learning new skills, I have the potential to become a valuable asset in the software development industry.
+As a graphic designer transitioning into software engineering, my expertise in design principles, visual aesthetics, and user experience can help me create software that is not only functional but also visually appealing and intuitive to use. Additionally, my ability to work with Adobe Creative Suite and other design tools can aid me in developing and designing software interfaces. My experience with creative problem-solving and critical thinking can also assist in tackling software development challenges. With a strong foundation in design and a passion for learning new skills, I have the potential to become a valuable asset in the software development industry.
 
 #### Development
 
@@ -59,7 +62,7 @@ You can see examples of the aforementioned skills [here](https://kheimisson.wixs
 
 ## Education
 
-#### Makers Academy (February 2023 ~ )
+#### Makers Academy (February 2023 to June 2023 )
 Number 1 dev bootcamp in UK / 16-week program / 10% Acceptance rate
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
@@ -74,6 +77,7 @@ Number 1 dev bootcamp in UK / 16-week program / 10% Acceptance rate
 
 - Specialising in advertising and branding
 - Grade 2:1
+- Attended workshops on frontend coding (HTML & CSS) and implemented into certain projects
 - Working collaboratively with other students and award schemes such as D&AD
 
 #### UX Design Certificate from Google's Coursera
@@ -82,4 +86,4 @@ A certified qualification recognised by majority of employers stating that I hav
 
 ## Hobbies
 
-One of my noteable hobbies is training Brazilian Jiu Jitsu, which I have been doing so for 3 years now. My commitment to the martial art displays physical fitness, discipline, and perseverance. BJJ is a martial art that emphasises technique and leverage over brute strength, and requires dedication and consistent practice to improve. BJJ has really taught me the ability to set and achieve goals, as well as my ability to work towards improvement and mastery over time. Additionally, I have demonstrated my ability to handle stress and pressure, in addition to occassionally helping and coaching beginners. 
+One of my noteable hobbies is training Brazilian Jiu Jitsu, which I have been doing since 2018. My commitment to the martial art demonstrates physical fitness, discipline, and perseverance. BJJ is a martial art that emphasises technique and leverage over brute strength, and requires dedication and consistent practice to improve. BJJ has really taught me the ability to set and achieve goals, as well as my ability to work towards gradual improvement and mastery over time. Additionally, I have demonstrated my ability to handle stress and pressure, in addition to occassionally helping and coaching beginners. 
