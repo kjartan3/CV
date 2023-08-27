@@ -1,88 +1,99 @@
 ## Kjartan Heimisson
 
-I am an aspiring programming practitioner, I am starting my journey in developing and delivering high-quality software solutions. I have a passion for coding and problem-solving, and I love to keep up with the latest technologies and industry trends. 
+I am a passionate and aspiring software developer with a background in graphic design. My journey into the world of software development is driven by my enthusiasm for coding, problem-solving, and my deep interest in staying up-to-date with the latest technologies and industry trends.
 
-I started out in graphic design, before making the decision to change careers. In my previous roles, I have worked on various projects that require a range of teams from user research, design, front-end and back-end development, while I was mostly in charge of design, I became familiar with the other process of the project and began to find my passion towards software development. 
+My career transition began in graphic design, where I had the opportunity to contribute to a variety of projects involving cross-functional teams, ranging from user research and design to front-end and back-end development. While my primary focus was on design, I gained valuable insights into the entire project lifecycle and discovered my passion for software development.
 
-I am a team player, and I enjoy collaborating with cross-functional teams to deliver projects on time and within budget. Technology is constantly evolving, and new technologies are developed every day, providing endless opportunities for innovation and creativity. As someone who loves to create new things and push the current bounderies of the industry, tech really excites me.
+Collaboration is a cornerstone of my work ethic. I thrive on engaging with diverse teams to ensure timely project delivery within budget constraints. The ever-evolving nature of technology fascinates me, as it continually presents opportunities for innovation and creativity that align perfectly with my drive to push the boundaries of the industry.
 
-## Projects
+## Projects 👨‍💻
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Study Buddy App**            | A study group app that allows users to create an account that can then join and/or create study groups, enabling users to study along with other users with similar interests to that subject. The main features of the app are to create an account, create a study group with specifications, browse and filter through study groups, join a group and chat with others using a chatbox, integrated OpenAI API served as "Ask Sheldon" button that answers any question with AI, delete group and use links to external study-friendly websites. | MongoBD, Express, React, Node  |
-| **Acebook App** | A social media clone app that allows users to create an account and upload posts containing messages and images. The main features of the app are to create posts, like other posts from other users, update profile details and delete posts.  | MongoDB, Express, React, Node |
-| **MakersBNB** | A property renting marketplace that allows users to create an account to either rent out their a property or to request to rent a property to stay in. The main features of the app are to create an account and create a listing, browse homepage and filter through listings, request a space from a host, delete a listing.  | MySQL, Sinatra, RSpec  |
-| **Bank Tech Test** | A bank account simulation app that allows you to make any of the following operations like, depositing money, withdrawing money and viewing the account statement. The app is used through accessing Node.js REPL, with commands that are stated in the projects README  | JavaScript, Node, JSON  |
+| **[Study Buddy App](https://github.com/kjartan3/Study-buddy-app)**            | A study group app that facilitates creating and joining study groups, offering features such as account creation, group creation, group browsing, chat functionality, and an integrated AI-powered "Ask Sheldon" feature using OpenAI API key. | MongoBD, Express, React, Node  |
+| **[Acebook App](https://github.com/kjartan3/Acebook-mern_fire-team)** | A social media clone enabling users to create accounts, upload posts with text and images, like others' posts, and manage profile details.  | MongoDB, Express, React, Node |
+| **[MakersBNB](https://github.com/kjartan3/makersbnb-ruby-seed)** | A property rental marketplace allowing users to list or request properties for rent, featuring account creation, listing creation, browsing and filtering listings, and requesting spaces.  | MySQL, Sinatra, RSpec  |
+| **[Bank Tech Test](https://github.com/kjartan3/bank-tech-test)** | A bank account simulation for depositing, withdrawing, and viewing statements through Node.js REPL.  | JavaScript, Node, JSON  |
 
-## Work Experience
+## Work Experience 👨‍💼💼
 
 **Boohoo Group PLC** (November 2021 to June 2022)  
 _Graphic Designer_
 
-• Design and create campaign or e-com emails through Adobe Photoshop.
+• Designed captivating campaign and e-commerce emails using Adobe Photoshop, enhancing brand exposure.
 
-• Slice and export assets/content to Exponea to assemble emails.
+• Optimized emails using HTML/CSS, fostering email development skills and engagement.
 
-• Code text, imagery and interactive elements with HTML and CSS.
+• Enhanced emails with coded text, visuals, and interactions, improving user experience.
 
-• Working alongside copy team and marketing team.
+• Collaborated closely across teams for consistent messaging, strengthening teamwork abilities.
 
-• Creating and editing social media (Instagram) content such as GIF’s.
+• Crafted and edited dynamic Instagram content, including GIFs, to boost social engagement.
 <br>
 </br>
 
 **Love Design Studio** (May 2021 to November 2021)  
 _Graphic Designer_
 
-• Brand development, as well as website redesign.
+• Led brand development and website redesign for improved user experience (UX).
 
-• Using HTML, CSS and JavaScript to aid in website redesign.
+• Applied HTML, CSS, and JavaScript to website overhaul, refining web design skills.
 
-• Content making - Brochures, Iconography, Info-graphics, Social Blog/Posts. 
+• Produced diverse content—brochures, icons, infographics, and social posts—heightening brand awareness.
 
-• Taking creative control as sole designer for company (and Shade the UK).
+• Exercised creative control as lead designer, driving design consistency and innovation.
+
+<br>
+
+_* Impact:_ Delivered projects meeting requirements; design contributions enhanced UX and brand exposure.
 <br>
 </br>
 
-## Skills
+## Skills 🛠️
 
-As a graphic designer transitioning into software engineering, my expertise in design principles, visual aesthetics, and user experience can help me create software that is not only functional but also visually appealing and intuitive to use. Additionally, my ability to work with Adobe Creative Suite and other design tools can aid me in developing and designing software interfaces. My experience with creative problem-solving and critical thinking can also assist in tackling software development challenges. With a strong foundation in design and a passion for learning new skills, I have the potential to become a valuable asset in the software development industry.
+#### Design
+
+As a graphic designer transitioning into tech, my expertise in design principles, visual aesthetics, and user experience empowers me to craft software that is both functional and visually compelling. I excel in leveraging Adobe Creative Suite and other design tools to create intuitive software interfaces. My creative problem-solving and critical thinking capabilities equip me to tackle complex software development challenges. With a robust design foundation and an unwavering commitment to skill growth, I am a valuable asset in the software development industry.
 
 #### Development
 
-I achieved experience in building websites using HTML, CSS, and JavaScript. A noteable example was when I redesigned a website for a sustainability firm. I went through the whole redesign process from the research/analysis to content/design to coding development and finally testing. However, this process can often have many revision rounds, and this similarly can happen in software development. I can leverage this knowledge to create interactive and dynamic user interfaces for your software.
+My proficiency in HTML, CSS, and JavaScript, honed through website building experiences, enables me to create dynamic and interactive user interfaces. Redesigning a sustainability firm's website, from research to coding and testing, allowed me to understand the iterative nature of development, providing me with a solid foundation for delivering engaging user experiences.
 
 #### Problem Solving
 
-I contributed towards my problem solving skills whenever I had a job to rebrand. Rebranding and redesigning always requires the lengthy process of revision rounds to really hone in on the desired outcome. I would research the companies competitors as well as the target audience to ensure that something like a logo redesign would stand out and resonate. I would continuously problem-solve to balance the competing demands of creativity, functionality, and communication to ultimately create design that successfully represents the company and helps it achieve its goals.
+The iterative design process, intrinsic to rebranding efforts, has sharpened my problem-solving skills. Extensive revision cycles are essential in refining design solutions that strike a balance between creativity, functionality, and communication. Through meticulous research and adaptation, I ensure that design choices resonate with audiences and meet organizational goals.
 
-You can see examples of the aforementioned skills [here](https://kheimisson.wixsite.com/kjartan)
+Explore my design portfolio [here](https://kheimisson.wixsite.com/kjartan)
 
-## Education
+## Education 📚
 
 #### Makers Academy (February 2023 to June 2023 )
-Number 1 dev bootcamp in UK / 16-week program / 10% Acceptance rate
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-- TBC
+_Premier 16-week Immersive Software Development Bootcamp_
+
+Embarked on an intensive journey at the pinnacle of UK's software development bootcamps, fostering proficiency through immersive experiences.
+
+- **Dynamic Pair Programming:** Engaged in collaborative pair programming to foster efficient problem-solving and collaborative skills
+
+ - **Methodology Mastery:** Cultivated a deep understanding of core methodologies, encompassing OOP, TDD, MVC, DDD, and Agile/XP practices
+
+- **Technology Spectrum:** Commanded a versatile tech repertoire, including Ruby, JavaScript, HTML, CSS, RSpec, Jasmine, Node, and SQL
+
+- **Holistic Skill Enrichment:** Explored multifaceted software development domains, amplifying adaptability and expertise across the spectrum
+
+My Makers Academy journey has refined me into a poised and versatile software developer, primed for impactful contributions across the industry.
 
 #### Chelsea College of Arts (2016 to 2019)
 
-- Specialising in advertising and branding
-- Grade 2:1
-- Attended workshops on frontend coding (HTML & CSS) and implemented into certain projects
-- Working collaboratively with other students and award schemes such as D&AD
+- Achieved a 2:1 grade while specializing in advertising and branding
+- Integrated frontend coding (HTML & CSS) into projects
+- Thrived in collaborative environments, working with peers and award schemes like D&AD
 
 #### UX Design Certificate from Google's Coursera
 
-A certified qualification recognised by majority of employers stating that I have completed a course in UX design. Learning about the whole User Experience process from research to user personas and prototyping to usability testing. I gained a whole new perspective on the wider level of work that goes into building applications and softwares.
+- Earned a recognised qualification, showcasing my UX design proficiency
+- Gained insights into the comprehensive UX process, from research to prototyping and testing
+- Deepened my appreciation for the intricate work behind software and application development
 
-## Hobbies
+## Interests 🥋
 
-One of my noteable hobbies is training Brazilian Jiu Jitsu, which I have been doing since 2018. My commitment to the martial art demonstrates physical fitness, discipline, and perseverance. BJJ is a martial art that emphasises technique and leverage over brute strength, and requires dedication and consistent practice to improve. BJJ has really taught me the ability to set and achieve goals, as well as my ability to work towards gradual improvement and mastery over time. Additionally, I have demonstrated my ability to handle stress and pressure, in addition to occassionally helping and coaching beginners. 
+A prominent hobby of mine is Brazilian Jiu Jitsu, which I've pursued since 2018. This practice reflects my dedication, discipline, and commitment to gradual improvement. Just as in software development, BJJ emphasizes technique and perseverance over brute force, reinforcing my goal-setting, stress management, and coaching skills.
