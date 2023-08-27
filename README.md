@@ -5,6 +5,8 @@ I am a passionate and aspiring software developer with a background in graphic d
 My career transition began in graphic design, where I had the opportunity to contribute to a variety of projects involving cross-functional teams, ranging from user research and design to front-end and back-end development. While my primary focus was on design, I gained valuable insights into the entire project lifecycle and discovered my passion for software development.
 
 Collaboration is a cornerstone of my work ethic. I thrive on engaging with diverse teams to ensure timely project delivery within budget constraints. The ever-evolving nature of technology fascinates me, as it continually presents opportunities for innovation and creativity that align perfectly with my drive to push the boundaries of the industry.
+<br>
+</br>
 
 ## Projects 👨‍💻
 
@@ -14,6 +16,8 @@ Collaboration is a cornerstone of my work ethic. I thrive on engaging with diver
 | **[Acebook App](https://github.com/kjartan3/Acebook-mern_fire-team)** | A social media clone enabling users to create accounts, upload posts with text and images, like others' posts, and manage profile details.  | MongoDB, Express, React, Node |
 | **[MakersBNB](https://github.com/kjartan3/makersbnb-ruby-seed)** | A property rental marketplace allowing users to list or request properties for rent, featuring account creation, listing creation, browsing and filtering listings, and requesting spaces.  | MySQL, Sinatra, RSpec  |
 | **[Bank Tech Test](https://github.com/kjartan3/bank-tech-test)** | A bank account simulation for depositing, withdrawing, and viewing statements through Node.js REPL.  | JavaScript, Node, JSON  |
+<br>
+</br>
 
 ## Work Experience 👨‍💼💼
 
@@ -64,6 +68,8 @@ My proficiency in HTML, CSS, and JavaScript, honed through website building expe
 The iterative design process, intrinsic to rebranding efforts, has sharpened my problem-solving skills. Extensive revision cycles are essential in refining design solutions that strike a balance between creativity, functionality, and communication. Through meticulous research and adaptation, I ensure that design choices resonate with audiences and meet organizational goals.
 
 Explore my design portfolio [here](https://kheimisson.wixsite.com/kjartan)
+<br>
+</br>
 
 ## Education 📚
 
@@ -93,6 +99,7 @@ My Makers Academy journey has refined me into a poised and versatile software de
 - Earned a recognised qualification, showcasing my UX design proficiency
 - Gained insights into the comprehensive UX process, from research to prototyping and testing
 - Deepened my appreciation for the intricate work behind software and application development
+<br>
 
 ## Interests 🥋
 
