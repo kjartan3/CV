@@ -21,7 +21,18 @@ Collaboration is a cornerstone of my work ethic. I thrive on engaging with diver
 
 ## Work Experience 👨‍💼💼
 
-**Boohoo Group PLC** (November 2021 to June 2022)  
+**Design District Reykjavik** (August 2022 to January 2023)  
+_Lead Graphic Designer_
+
+• Managed and coordinated numerous design projects, demonstrating strong managerial skills for effective collaboration and delivery.
+
+• Developed creative concepts and design strategies. 
+
+• Responsible for the quality control process, ensuring high standards.
+<br>
+</br>
+
+**Boohoo Group PLC** (November 2021 to July 2022)  
 _Graphic Designer_
 
 • Designed captivating campaign and e-commerce emails using Adobe Photoshop, enhancing brand exposure.
