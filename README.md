@@ -105,7 +105,7 @@ My Makers Academy journey has refined me into a poised and versatile software de
 - Integrated frontend coding (HTML & CSS) into projects
 - Thrived in collaborative environments, working with peers and award schemes like D&AD
 
-#### UX Design Certificate from Google's Coursera
+#### UX Design Certificate from Google's Coursera (2021)
 
 - Earned a recognised qualification, showcasing my UX design proficiency
 - Gained insights into the comprehensive UX process, from research to prototyping and testing
